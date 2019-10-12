@@ -1,7 +1,7 @@
 {
     "images":
     {
-        "enigmatica2":
+        "blardpack":
         {
             "image" : "modpack:textures/gui/blardpack.png",
             "posX" : -130,
